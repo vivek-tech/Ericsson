@@ -1,1 +1,3 @@
 This is my New start and preparing to crack interviews.
+To push we used collabration in Git hub
+its nice we collabrated the two github accounts
